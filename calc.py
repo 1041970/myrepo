@@ -1,7 +1,4 @@
-a=int(input("Enter the number:"))
-b=int(input("Enter the number:"))
-print(a+b)
-print(a-b)
-print(a*b)
-print(a%b)
+c=int(input("Enter the third value: "))
+d=int(input("Enter the fourth value: "))
+
 
